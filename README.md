@@ -1,7 +1,7 @@
 # GoBoard
 "Go Board" using JavaScript game library phina.js
 
-##Sample
+## Sample
 https://tissue-paper.github.io/GoBoard/example/
 
 ## Usage
